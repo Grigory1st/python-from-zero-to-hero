@@ -17,3 +17,7 @@ Choose: 1
 Task: Buy groceries
 ...
 ```
+
+```python
+# Your code here
+```

@@ -6,3 +6,7 @@ Enhance calculator with exception handling:
 - Division by zero
 - Non-numeric input
 - Use try-except in all operations
+
+```python
+# Your code here
+```

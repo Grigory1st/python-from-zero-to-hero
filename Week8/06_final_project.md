@@ -11,3 +11,7 @@ Build a comprehensive app combining all learned:
 - Testing
 
 Example: A task manager with user auth, data persistence, and external integrations.
+
+```python
+# Your code here
+```

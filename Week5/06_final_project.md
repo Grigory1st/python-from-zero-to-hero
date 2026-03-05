@@ -6,3 +6,7 @@ Build a simple database using CSV:
 - View all records
 - Search by name
 - Save to CSV
+
+```python
+# Your code here
+```

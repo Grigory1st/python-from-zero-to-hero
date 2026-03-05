@@ -7,3 +7,7 @@ Create a contact manager using dict:
 - List all
 - Delete contact
 - Menu-driven loop
+
+```python
+# Your code here
+```

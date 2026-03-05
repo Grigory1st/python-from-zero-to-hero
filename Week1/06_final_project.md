@@ -19,3 +19,7 @@ Total: $57.50
 - Use `float()` to convert input to numbers.
 - Calculate tip as `bill * (tip_percentage / 100)`.
 - Format output with f-strings or string concatenation.
+
+```python
+# Your code here
+```
