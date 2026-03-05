@@ -1,7 +1,7 @@
 # Week 3: Final Project - Basic Calculator App
 
 <details>
-<summary>🇷🇺 Русский перевод (введение)</summary>
+<summary>ru</summary>
 
 Неделя 3: Финальный проект - Простое приложение калькулятор
 
@@ -10,7 +10,7 @@
 Build a calculator that:
 
 <details>
-<summary>🇷🇺 Русский перевод (требуемое)</summary>
+<summary>ru</summary>
 
 Постройте калькулятор, который:
 
@@ -22,7 +22,7 @@ Build a calculator that:
 - Quits on 'q'.
 
 <details>
-<summary>🇷🇺 Русские требуемия</summary>
+<summary>ru</summary>
 
 - Определяет функции для операций.
 - Циклы для получения ввода операции и ротов.
@@ -40,7 +40,7 @@ Result: 8
 ```
 
 <details>
-<summary>🇷🇺 Русский пример</summary>
+<summary>ru</summary>
 
 **Пример:**
 ```

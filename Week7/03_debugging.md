@@ -11,7 +11,7 @@ except:  # Bad
 ```
 
 <details>
-<summary>🇷🇺 Широкие Отловы: ловля все исключения</summary>
+<summary>ru</summary>
 
 Проблема: баре `except:` ловит все исключения, большие части маскируют основные ошибки.
 
@@ -30,7 +30,7 @@ except ValueError:  # ЛУЧШЕ
 Use built-in or custom.
 
 <details>
-<summary>🇷🇺 Не вызывая подходящие исключения</summary>
+<summary>ru</summary>
 
 Проблема: ѓсли в коде есть недействительные данные, вызвовите аппроприатное исключение.
 
@@ -47,7 +47,7 @@ if not isinstance(value, int):
 Use finally for resources.
 
 <details>
-<summary>🇷🇺 Finally не используется для очистки</summary>
+<summary>ru</summary>
 
 Проблема: ресурсы (dbfile, соединения базы данных, файлы) не чистятся исправно.
 

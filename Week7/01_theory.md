@@ -5,7 +5,7 @@
 Handle errors gracefully.
 
 <details>
-<summary>🇷🇺 Обрабатывайте ошибки милостиво</summary>
+<summary>ru</summary>
 
 Обработка исключений - критичный навык для надежного кода.
 
@@ -20,7 +20,7 @@ except ValueError:
 ```
 
 <details>
-<summary>🇷🇺 Попытка-Отлов</summary>
+<summary>ru</summary>
 
 Конструкция try-except перехватывает ошибки:
 
@@ -41,7 +41,7 @@ if age < 0:
 ```
 
 <details>
-<summary>🇷🇺 Вызов исключений</summary>
+<summary>ru</summary>
 
 Вы можете вызывать исключения с ключевым словом `raise`:
 
@@ -58,7 +58,7 @@ def check_age(age):
 Always executes.
 
 <details>
-<summary>🇷🇺 Блок Never Finally</summary>
+<summary>ru</summary>
 
 Блок `finally` выполняется всегда, دаже при ошибке:
 
@@ -78,7 +78,7 @@ finally:  # Это сРавняется всегда
 Use `pdb` or print statements.
 
 <details>
-<summary>🇷🇺 Инструменты отладки</summary>
+<summary>ru</summary>
 
 Популярные инструменты:
 

@@ -4,7 +4,7 @@
 Generators can be used only once.
 
 <details>
-<summary>🇷🇺 Исчерпание генератора: генераторы можно использовать лишь один раз</summary>
+<summary>ru</summary>
 
 Если вы итеративно проходите генератор, следующий цикл не вернёт элементы — его нужно пересоздать.
 
@@ -23,7 +23,7 @@ print(next(g))
 Forgetting to return wrapper.
 
 <details>
-<summary>🇷🇺 Проблемы с декораторами: забыли вернуть wrapper</summary>
+<summary>ru</summary>
 
 Не возвращение `wrapper` приведёт к тому, что декорируемая функция станет `None`.
 
@@ -33,7 +33,7 @@ Forgetting to return wrapper.
 Handle HTTP errors.
 
 <details>
-<summary>🇷🇺 Ошибки API: обрабатывайте HTTP-статусы</summary>
+<summary>ru</summary>
 
 Проверяйте `response.status_code` и используйте try/except для сетевых ошибок.
 
@@ -43,7 +43,7 @@ Handle HTTP errors.
 Use parameterized queries.
 
 <details>
-<summary>🇷🇺 SQL-инъекция: применяйте параметризированные запросы</summary>
+<summary>ru</summary>
 
 Не вставляйте пользовательский ввод напрямую в SQL; используйте `?` или именованные параметры.
 

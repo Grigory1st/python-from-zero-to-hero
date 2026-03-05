@@ -1,7 +1,7 @@
 # Week 8: Final Project - Integrated App
 
 <details>
-<summary>🇷🇺 Финальный проект: Интегрированное приложение</summary>
+<summary>ru</summary>
 
 Постройте комплексное приложение, объединяющее все изученные навыки.
 
@@ -10,7 +10,7 @@
 Build a comprehensive app combining all learned:
 
 <details>
-<summary>🇷🇺 Построьте приложение, сочетающее все</summary>
+<summary>ru</summary>
 
 - CLI interface
 - OOP classes
@@ -25,49 +25,49 @@ Build a comprehensive app combining all learned:
 - CLI interface
 
 <details>
-<summary>🇷🇺 Командный интерфейс</summary>
+<summary>ru</summary>
 </details>
 
 - OOP classes
 
 <details>
-<summary>🇷🇺 Классы ООП</summary>
+<summary>ru</summary>
 </details>
 
 - File I/O
 
 <details>
-<summary>🇷🇺 Ввод/вывод файлов</summary>
+<summary>ru</summary>
 </details>
 
 - Database
 
 <details>
-<summary>🇷🇺 База данных</summary>
+<summary>ru</summary>
 </details>
 
 - API calls
 
 <details>
-<summary>🇷🇺 Вызовы API</summary>
+<summary>ru</summary>
 </details>
 
 - Exception handling
 
 <details>
-<summary>🇷🇺 Обработка исключений</summary>
+<summary>ru</summary>
 </details>
 
 - Testing
 
 <details>
-<summary>🇷🇺 Тестирование</summary>
+<summary>ru</summary>
 </details>
 
 Example: A task manager with user auth, data persistence, and external integrations.
 
 <details>
-<summary>🇷🇺 Пример: менеджер задач</summary>
+<summary>ru</summary>
 
 Примерное приложение может включать:
 

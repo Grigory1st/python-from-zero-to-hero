@@ -1,7 +1,7 @@
 # Week 5: Final Project - Simple Database
 
 <details>
-<summary>🇷🇺 Русский перевод (введение)</summary>
+<summary>ru</summary>
 
 Простая база данных
 
@@ -10,7 +10,7 @@
 Build a simple database using CSV:
 
 <details>
-<summary>🇷🇺 Русские требования</summary>
+<summary>ru</summary>
 
 Постройте арбственную базу данных, используя CSV:
 
@@ -22,7 +22,7 @@ Build a simple database using CSV:
 - Save to CSV
 
 <details>
-<summary>🇷🇺 Необходимые функции</summary>
+<summary>ru</summary>
 
 - Добавить запись (имя, возраст, город)
 - Показать все записи

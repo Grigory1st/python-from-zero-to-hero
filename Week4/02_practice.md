@@ -1,7 +1,7 @@
 # Week 4: Practice Exercises
 
 <details>
-<summary>🇷🇺 Русский перевод (введение)</summary>
+<summary>ru</summary>
 
 Неделя 4: Практические упражнения
 
@@ -10,7 +10,7 @@
 1. **List Operations**: Create list, add, remove, sort.
 
 <details>
-<summary>🇷🇺 Упражнение 1 на русском</summary>
+<summary>ru</summary>
 
 **Операции со списками**: Создайте список, добавите, удалите, отсортируйте.
 
@@ -23,7 +23,7 @@
 2. **Dictionary Lookup**: Store contacts, search by name.
 
 <details>
-<summary>🇷🇺 Упражнение 2 на русском</summary>
+<summary>ru</summary>
 
 **Поиск в словаре**: Храните контакты, ищите по имени.
 
@@ -36,7 +36,7 @@
 3. **Set Intersection**: Find common elements in two lists.
 
 <details>
-<summary>🇷🇺 Упражнение 3 на русском</summary>
+<summary>ru</summary>
 
 **Пересечение множеств**: Найдите общие элементы в двух списках.
 
@@ -49,7 +49,7 @@
 4. **Tuple Unpacking**: Unpack coordinates.
 
 <details>
-<summary>🇷🇺 Упражнение 4 на русском</summary>
+<summary>ru</summary>
 
 **Орабзивание кортежей**: Распакуйте координаты.
 
@@ -62,7 +62,7 @@
 5. **Comprehension**: Create list of evens from 1-20.
 
 <details>
-<summary>🇷🇺 Упражнение 5 на русском</summary>
+<summary>ru</summary>
 
 **Компрехендер**: Создайте список четных чисел с 1-20.
 

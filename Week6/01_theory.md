@@ -5,7 +5,7 @@
 OOP organizes code into classes and objects.
 
 <details>
-<summary>🇷🇺 ООП организует код в классы и объекты</summary>
+<summary>ru</summary>
 
 Это основная парадигма программирования, которая позволяет организовать даные и функции в переиспользуемые структуры, называемые классами.
 
@@ -26,7 +26,7 @@ print(p.greet())
 ```
 
 <details>
-<summary>🇷🇺 Классы и объекты</summary>
+<summary>ru</summary>
 
 Класс - это шаблон для создания объектов. Объект - это экземпляр класса.
 
@@ -54,7 +54,7 @@ class Student(Person):
 ```
 
 <details>
-<summary>🇷🇺 Наследование</summary>
+<summary>ru</summary>
 
 Наследование позволяет создавать новые классы на основе существующих. Дочерний класс наследует свойства и методы родительского класса.
 
@@ -71,7 +71,7 @@ class Student(Person):  # Student наследует от Person
 Use private attributes with `_` or `__`.
 
 <details>
-<summary>🇷🇺 Инкапсуляция</summary>
+<summary>ru</summary>
 
 Инкапсуляция скрывает внутренние детали класса. Используйте `_` для защищенных и `__` для приватных атрибутов:
 

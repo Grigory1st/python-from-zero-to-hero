@@ -3,7 +3,7 @@
 1. **Safe Divider**: Function with try-except for division.
 
 <details>
-<summary>🇷🇺 Безопасное деление: функция с try-except для деления</summary>
+<summary>ru</summary>
 
 Напишите функцию divide(a, b), которая безопасно делит два числа.
 
@@ -16,7 +16,7 @@
 2. **File Reader**: Read file with exception handling.
 
 <details>
-<summary>🇷🇺 Чтение файла: чтение с обработкой исключений</summary>
+<summary>ru</summary>
 
 Напишите функцию, которая жавот файл в безопасном и выводит его содержимое.
 
@@ -29,7 +29,7 @@
 3. **Input Validator**: Validate input with custom exceptions.
 
 <details>
-<summary>🇷🇺 Проверка ввода: проверять с пользовательскими исключениями</summary>
+<summary>ru</summary>
 
 Определите пользовательское исключение InvalidAge и вызывайте его при отрицательным возрасте.
 
@@ -42,7 +42,7 @@
 4. **Resource Manager**: Use finally for file close.
 
 <details>
-<summary>🇷🇺 Управление ресурсами: используйте finally для закрытия файла</summary>
+<summary>ru</summary>
 
 Напишите код, который открывает файл, запрашивает данные и всегда закрывает его finally.
 
@@ -55,7 +55,7 @@
 5. **Error Logger**: Log exceptions to file.
 
 <details>
-<summary>🇷🇺 Логгер ошибок: записывать исключения в файл</summary>
+<summary>ru</summary>
 
 Напишите функцию, которая записывает исключения в файл log.txt при ошибках.
 

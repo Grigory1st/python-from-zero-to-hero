@@ -1,14 +1,14 @@
 # Week 5: File Handling and Modules
 
 <details>
-<summary><b>🇷🇺 Неделя 5: Работа с файлами и модулями</b></summary>
+<summary>ru</summary>
 </details>
 
 ## Overview
 This week covers working with files and organizing code into modules.
 
 <details>
-<summary>🇷🇺 Обзор</summary>
+<summary>ru</summary>
 На этой неделе рассматриваются работа с файлами и организация кода в модули.
 </details>
 
@@ -18,7 +18,7 @@ This week covers working with files and organizing code into modules.
 - CSV Files
 
 <details>
-<summary>🇷🇺 Теория</summary>
+<summary>ru</summary>
 
 - Ввод-вывод файлов (чтение/запись)
 - Модули (апорт)
@@ -34,7 +34,7 @@ This week covers working with files and organizing code into modules.
 5. Log File
 
 <details>
-<summary>🇷🇺 Практика</summary>
+<summary>ru</summary>
 
 1. Запись в файл
 2. Просмотр и посчёт
@@ -50,7 +50,7 @@ This week covers working with files and organizing code into modules.
 - ImportError
 
 <details>
-<summary>🇷🇺 Отладка</summary>
+<summary>ru</summary>
 
 - FileNotFoundError (Файл не найден)
 - PermissionError (Ошибка доступа)
@@ -62,7 +62,7 @@ This week covers working with files and organizing code into modules.
 5 multiple-choice questions on file handling and modules.
 
 <details>
-<summary>🇷🇺 Контрольные точки</summary>
+<summary>ru</summary>
 5 вопросов с выбором ответа о работе с файлами.
 </details>
 
@@ -74,7 +74,7 @@ This week covers working with files and organizing code into modules.
 5. Log Writer
 
 <details>
-<summary>🇷🇺 Микропроекты</summary>
+<summary>ru</summary>
 
 1. Копирование файлов
 2. Посчёт слов
@@ -88,6 +88,6 @@ This week covers working with files and organizing code into modules.
 Simple Database - manage records using CSV.
 
 <details>
-<summary>🇷🇺 Финальный проект</summary>
+<summary>ru</summary>
 Простая база данных - управляйте записями с использованием CSV.
 </details>

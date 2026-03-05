@@ -5,7 +5,7 @@
 Wrap up with advanced concepts and project integration.
 
 <details>
-<summary>🇷🇺 Обзор продвинутых концепций и интеграции проекта</summary>
+<summary>ru</summary>
 
 Здесь мы подведем итог изученным темам и посмотрим, как они взаимосвязаны.
 
@@ -22,7 +22,7 @@ for i in gen():
 ```
 
 <details>
-<summary>🇷🇺 Генераторы</summary>
+<summary>ru</summary>
 
 Генераторы позволяют итеративно возвращать значения, экономя память.
 
@@ -52,7 +52,7 @@ def say_hello():
 ```
 
 <details>
-<summary>🇷🇺 Декораторы</summary>
+<summary>ru</summary>
 
 Декоратор — это функция, которая оборачивает другую функцию, добавляя поведение.
 
@@ -80,7 +80,7 @@ squares = list(map(lambda x: x**2, nums))
 ```
 
 <details>
-<summary>🇷🇺 Функциональные инструменты</summary>
+<summary>ru</summary>
 
 `map` применяет функцию к каждому элементу, `filter` отбирает, `reduce` аккумулирует.
 
@@ -98,7 +98,7 @@ response = requests.get("https://api.example.com")
 ```
 
 <details>
-<summary>🇷🇺 API с requests</summary>
+<summary>ru</summary>
 
 Библиотека requests делает HTTP-запросы простыми.
 
@@ -113,7 +113,7 @@ cursor.execute("CREATE TABLE users (id INTEGER, name TEXT)")
 ```
 
 <details>
-<summary>🇷🇺 Основы SQLite</summary>
+<summary>ru</summary>
 
 SQLite — встроенная СУБД, не требующая сервера.
 
@@ -126,7 +126,7 @@ def test_add():
 ```
 
 <details>
-<summary>🇷🇺 Основы тестирования</summary>
+<summary>ru</summary>
 
 Пишем простые unit-тесты с assert для проверки функций.
 

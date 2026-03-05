@@ -5,7 +5,7 @@
 This week, we dive into control flow, allowing your programs to make decisions and repeat actions. This is essential for automating tasks like processing lists of data or responding to user choices.
 
 <details>
-<summary>🇷🇺 Русский перевод (введение)</summary>
+<summary>ru</summary>
 
 На этой неделе мы погружаемся в управление потоком, позволяя вашим программам принимать решения и повторять действия. Это необходимо для автоматизации задач, таких как обработка списков данных или реагирование на выбор пользователя.
 
@@ -15,7 +15,7 @@ This week, we dive into control flow, allowing your programs to make decisions a
 Use `if`, `elif`, and `else` to execute code based on conditions.
 
 <details>
-<summary>🇷🇺 Русский перевод (Условные операторы)</summary>
+<summary>ru</summary>
 
 Используйте `if`, `elif` и `else` для выполнения кода на основе условий.
 
@@ -32,7 +32,7 @@ else:
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 age = int(input("Введите ваш возраст: "))
@@ -55,7 +55,7 @@ else:
 - `<=` (less or equal)
 
 <details>
-<summary>🇷🇺 Русский перевод (Операторы сравнения)</summary>
+<summary>ru</summary>
 
 - `==` (равенство)
 - `!=` (не равно)
@@ -72,7 +72,7 @@ else:
 - `not`: Negate condition
 
 <details>
-<summary>🇷🇺 Русский перевод (Логические операторы)</summary>
+<summary>ru</summary>
 
 - `and`: Оба условия истинны
 - `or`: По крайней мере одно истинно
@@ -88,7 +88,7 @@ if is_student and has_id:
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 is_student = True
@@ -103,7 +103,7 @@ if is_student and has_id:
 Loops repeat code until a condition is met.
 
 <details>
-<summary>🇷🇺 Русский перевод (Циклы)</summary>
+<summary>ru</summary>
 
 Циклы повторяют код до тех пор, пока условие выполнится.
 
@@ -118,7 +118,7 @@ while count < 5:
 ```
 
 <details>
-<summary>🇷🇺 Русский перевод (While Loop)</summary>
+<summary>ru</summary>
 
 #### Цикл While
 ```python
@@ -137,7 +137,7 @@ for i in range(5):
 ```
 
 <details>
-<summary>🇷🇺 Русский перевод (For Loop)</summary>
+<summary>ru</summary>
 
 #### Цикл For
 ```python
@@ -152,7 +152,7 @@ for i in range(5):
 - `continue`: Skip to next iteration
 
 <details>
-<summary>🇷🇺 Русский перевод (Управление циклом)</summary>
+<summary>ru</summary>
 
 - `break`: Выход из цикла
 - `continue`: Переход к следующей итерации
@@ -167,7 +167,7 @@ for num in range(10):
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 for num in range(10):
@@ -181,7 +181,7 @@ for num in range(10):
 These tools let you handle real-world scenarios like validating user input or iterating over data.
 
 <details>
-<summary>🇷🇺 Русский перевод (итог)</summary>
+<summary>ru</summary>
 
 Эти инструменты позволяют вам обрабатывать реальные сценарии, такие как валидация пользовательского ввода или итерация по данным.
 

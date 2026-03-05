@@ -3,7 +3,7 @@
 Build small, real-world scripts to apply what you've learned.
 
 <details>
-<summary>🇷🇺 Русский перевод (введение)</summary>
+<summary>ru</summary>
 
 Создавайте небольшие реальные скрипты для применения полученных знаний.
 
@@ -12,7 +12,7 @@ Build small, real-world scripts to apply what you've learned.
 1. **Personal Introduction Script**: Write a script that asks for your name, age, and hobby, then prints a personalized introduction.
 
 <details>
-<summary>🇷🇺 Проект 1 на русском</summary>
+<summary>ru</summary>
 
 **Скрипт личного представления**: Напишите скрипт, который просит ваше имя, возраст и хобби, затем распечатывает персональное представление.
 
@@ -25,7 +25,7 @@ Build small, real-world scripts to apply what you've learned.
 2. **Simple Expense Tracker**: Create a script that takes three expenses as input and prints the total.
 
 <details>
-<summary>🇷🇺 Проект 2 на русском</summary>
+<summary>ru</summary>
 
 **Простой трекер расходов**: Создайте скрипт, который принимает три расхода в качестве входных данных и распечатывает сумму.
 
@@ -38,7 +38,7 @@ Build small, real-world scripts to apply what you've learned.
 3. **Temperature Converter**: Ask for temperature in Celsius, convert to Fahrenheit, and display both.
 
 <details>
-<summary>🇷🇺 Проект 3 на русском</summary>
+<summary>ru</summary>
 
 **Конвертер температуры**: Попросите температуру в градусах Цельсия, преобразуйте в Фаренгейт и отобразите оба значения.
 
@@ -51,7 +51,7 @@ Build small, real-world scripts to apply what you've learned.
 4. **Greeting Bot**: Based on the time of day (ask user for hour), print "Good morning", "Good afternoon", or "Good evening".
 
 <details>
-<summary>🇷🇺 Проект 4 на русском</summary>
+<summary>ru</summary>
 
 **Приветственный бот**: На основе времени суток (попросите пользователя ввести час) распечатайте "Good morning", "Good afternoon" или "Good evening".
 
@@ -64,7 +64,7 @@ Build small, real-world scripts to apply what you've learned.
 5. **Basic Profile Card**: Collect name, age, city, and print them in a formatted card.
 
 <details>
-<summary>🇷🇺 Проект 5 на русском</summary>
+<summary>ru</summary>
 
 **Основная карточка профиля**: Соберите имя, возраст, город и распечатайте их в отформатированной карточке.
 

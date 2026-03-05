@@ -1,7 +1,7 @@
 # Week 3: Practice Exercises
 
 <details>
-<summary>🇷🇺 Русский перевод (введение)</summary>
+<summary>ru</summary>
 
 Неделя 3: Практические упражнения
 
@@ -10,7 +10,7 @@
 1. **Function to Calculate Area**: Define a function for rectangle area.
 
 <details>
-<summary>🇷🇺 Упражнение 1 на русском</summary>
+<summary>ru</summary>
 
 **Функция для расчета площади**: Определите функцию для площади прямоугольника.
 
@@ -23,7 +23,7 @@
 2. **Greeting Function**: Function that takes name and time, returns greeting.
 
 <details>
-<summary>🇷🇺 Упражнение 2 на русском</summary>
+<summary>ru</summary>
 
 **Функция приветствия**: Функция, которая принимает имя и время дня, возвращает приветствие.
 
@@ -36,7 +36,7 @@
 3. **List Sum**: Function to sum a list of numbers.
 
 <details>
-<summary>🇷🇺 Упражнение 3 на русском</summary>
+<summary>ru</summary>
 
 **Сумма списка**: Функция для сметы списка чисел.
 
@@ -49,7 +49,7 @@
 4. **Factorial**: Recursive function for factorial.
 
 <details>
-<summary>🇷🇺 Упражнение 4 на русском</summary>
+<summary>ru</summary>
 
 **Факториал**: Рекурсивная функция для вычисления факториала.
 
@@ -62,7 +62,7 @@
 5. **Temperature Converter Function**: Convert C to F.
 
 <details>
-<summary>🇷🇺 Упражнение 5 на русском</summary>
+<summary>ru</summary>
 
 **Функция конвертера температуры**: Преобразуйте МО в Ф.
 

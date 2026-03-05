@@ -5,7 +5,7 @@
 Data structures store and organize data efficiently.
 
 <details>
-<summary>🇷🇺 Русский перевод (введение)</summary>
+<summary>ru</summary>
 
 Структуры данных хранят и организуют данные эффективно.
 
@@ -15,7 +15,7 @@ Data structures store and organize data efficiently.
 Mutable sequences.
 
 <details>
-<summary>🇷🇺 Русский перевод (Lists)</summary>
+<summary>ru</summary>
 
 Изменяемые последовательности.
 
@@ -28,7 +28,7 @@ print(fruits[0])  # apple
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 fruits = ["apple", "banana"]  # Помидоры
@@ -42,7 +42,7 @@ fruits = ["apple", "banana"]  # Помидоры
 Immutable sequences.
 
 <details>
-<summary>🇷🇺 Русский перевод (Tuples)</summary>
+<summary>ru</summary>
 
 Неизменяемые последовательности.
 
@@ -53,7 +53,7 @@ point = (1, 2)
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 point = (1, 2)  # Координаты
@@ -65,7 +65,7 @@ point = (1, 2)  # Координаты
 Key-value pairs.
 
 <details>
-<summary>🇷🇺 Русский перевод (Dictionaries)</summary>
+<summary>ru</summary>
 
 Пары ключ-значение.
 
@@ -77,7 +77,7 @@ print(person["name"])
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 person = {"name": "Alice", "age": 25}  # словарь
@@ -90,7 +90,7 @@ person = {"name": "Alice", "age": 25}  # словарь
 Unique elements.
 
 <details>
-<summary>🇷🇺 Русский перевод (Sets)</summary>
+<summary>ru</summary>
 
 Unique elements. (Уникальные элементы)
 
@@ -102,7 +102,7 @@ nums.add(4)
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 nums = {1, 2, 3}  # множество
@@ -117,7 +117,7 @@ squares = [x**2 for x in range(5)]
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 squares = [x**2 for x in range(5)]  # квадраты [0, 1, 4, 9, 16]

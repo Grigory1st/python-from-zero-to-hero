@@ -1,14 +1,14 @@
 # Week 3: Functions
 
 <details>
-<summary><b>🇷🇺 Неделя 3: Функции</b></summary>
+<summary>ru</summary>
 </details>
 
 ## Overview
 This week covers functions as reusable blocks of code for organizing and avoiding repetition.
 
 <details>
-<summary>🇷🇺 Обзор</summary>
+<summary>ru</summary>
 На этой неделе рассматриваются функции как переиспользуемые блоки кода для организации и исключения повторений.
 </details>
 
@@ -21,7 +21,7 @@ This week covers functions as reusable blocks of code for organizing and avoidin
 - Lambda Functions
 
 <details>
-<summary>🇷🇺 Теория</summary>
+<summary>ru</summary>
 
 - Определение функций
 - Параметры и аргументы
@@ -40,7 +40,7 @@ This week covers functions as reusable blocks of code for organizing and avoidin
 5. Temperature Converter Function
 
 <details>
-<summary>🇷🇺 Практика</summary>
+<summary>ru</summary>
 
 1. Функция для расчета площади
 2. Функция приветствия
@@ -56,7 +56,7 @@ This week covers functions as reusable blocks of code for organizing and avoidin
 - Recursion Depth
 
 <details>
-<summary>🇷🇺 Отладка</summary>
+<summary>ru</summary>
 
 - UnboundLocalError (Ошибка неопределенной переменной)
 - TypeError in Functions (Ошибка типа в функциях)
@@ -68,7 +68,7 @@ This week covers functions as reusable blocks of code for organizing and avoidin
 5 multiple-choice questions on functions.
 
 <details>
-<summary>🇷🇺 Контрольные точки</summary>
+<summary>ru</summary>
 5 вопросов с выбором ответа о функциях.
 </details>
 
@@ -80,7 +80,7 @@ This week covers functions as reusable blocks of code for organizing and avoidin
 5. Unit Converter
 
 <details>
-<summary>🇷🇺 Микропроекты</summary>
+<summary>ru</summary>
 
 1. Калькулятор с функциями
 2. Отскори работы со строками
@@ -94,6 +94,6 @@ This week covers functions as reusable blocks of code for organizing and avoidin
 Basic Calculator App - calculator with functions for operations.
 
 <details>
-<summary>🇷🇺 Финальный проект</summary>
+<summary>ru</summary>
 Простое приложение калькулятор - калькулятор с функциями для операций.
 </details>

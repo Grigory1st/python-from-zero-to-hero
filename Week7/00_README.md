@@ -1,7 +1,7 @@
 # Week 7: Exceptions and Debugging
 
 <details>
-<summary>🇷🇺 Неделя 7: Исключения и отладка</summary>
+<summary>ru</summary>
 
 На этой неделе мы освоим обработку ошибок и техники отладки программ.
 
@@ -11,7 +11,7 @@
 This week focuses on handling errors gracefully and debugging techniques.
 
 <details>
-<summary>🇷🇺 Обзор</summary>
+<summary>ru</summary>
 
 На этой неделе рассматриваем:
 
@@ -21,118 +21,118 @@ This week focuses on handling errors gracefully and debugging techniques.
 - Try-Except
 
 <details>
-<summary>🇷🇺 Попытка-Отлов</summary>
+<summary>ru</summary>
 </details>
 
 - Raising Exceptions
 
 <details>
-<summary>🇷🇺 Вызов исключений</summary>
+<summary>ru</summary>
 </details>
 
 - Finally
 
 <details>
-<summary>🇷🇺 Наконец</summary>
+<summary>ru</summary>
 </details>
 
 - Debugging Tools
 
 <details>
-<summary>🇷🇺 Инструменты отладки</summary>
+<summary>ru</summary>
 </details>
 
 ## Practice
 1. Exception Handling
 
 <details>
-<summary>🇷🇺 Обработка исключений</summary>
+<summary>ru</summary>
 </details>
 
 2. File Open
 
 <details>
-<summary>🇷🇺 Открытие файла</summary>
+<summary>ru</summary>
 </details>
 
 3. Custom Exception
 
 <details>
-<summary>🇷🇺 Пользовательское исключение</summary>
+<summary>ru</summary>
 </details>
 
 4. Finally Block
 
 <details>
-<summary>🇷🇺 Блок Наконец</summary>
+<summary>ru</summary>
 </details>
 
 5. Multiple Except
 
 <details>
-<summary>🇷🇺 Несколько Отлов</summary>
+<summary>ru</summary>
 </details>
 
 ## Debugging
 - Broad Except
 
 <details>
-<summary>🇷🇺 Широкие Отловы</summary>
+<summary>ru</summary>
 </details>
 
 - Not Raising Appropriate Exceptions
 
 <details>
-<summary>🇷🇺 Не вызывая подходящие исключения</summary>
+<summary>ru</summary>
 </details>
 
 - Finally Not Used for Cleanup
 
 <details>
-<summary>🇷🇺 Finally не используется для очистки</summary>
+<summary>ru</summary>
 </details>
 
 ## Checkpoints
 5 multiple-choice questions on exceptions and debugging.
 
 <details>
-<summary>🇷🇺 5 вопросов с несколькими вариантами ответов об исключениях</summary>
+<summary>ru</summary>
 </details>
 
 ## Micro Projects
 1. Safe Divider
 
 <details>
-<summary>🇷🇺 Безопасное деление</summary>
+<summary>ru</summary>
 </details>
 
 2. File Reader
 
 <details>
-<summary>🇷🇺 Чтение файла</summary>
+<summary>ru</summary>
 </details>
 
 3. Input Validator
 
 <details>
-<summary>🇷🇺 Проверка ввода</summary>
+<summary>ru</summary>
 </details>
 
 4. Resource Manager
 
 <details>
-<summary>🇷🇺 Управление ресурсами</summary>
+<summary>ru</summary>
 </details>
 
 5. Error Logger
 
 <details>
-<summary>🇷🇺 Логгер ошибок</summary>
+<summary>ru</summary>
 </details>
 
 ## Final Project
 Robust Calculator - calculator with full exception handling.
 
 <details>
-<summary>🇷🇺 Надежный калькулятор</summary>
+<summary>ru</summary>
 </details>

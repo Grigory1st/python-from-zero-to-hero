@@ -1,7 +1,7 @@
 # Week 3: Checkpoints
 
 <details>
-<summary>🇷🇺 Русский перевод (введение)</summary>
+<summary>ru</summary>
 
 Неделя 3: Контрольные точки
 
@@ -10,7 +10,7 @@
 1. What keyword defines a function? (func, def, function, lambda)
 
 <details>
-<summary>🇷🇺 Вопрос 1 на русском</summary>
+<summary>ru</summary>
 
 Какое ключевое слово определяет функцию? (func, def, function, lambda)
 
@@ -19,7 +19,7 @@
 2. How to return a value? (return, print, yield, output)
 
 <details>
-<summary>🇷🇺 Вопрос 2 на русском</summary>
+<summary>ru</summary>
 
 Как возвратить значение? (return, print, yield, output)
 
@@ -28,7 +28,7 @@
 3. True or False: Functions can have no parameters.
 
 <details>
-<summary>🇷🇺 Вопрос 3 на русском</summary>
+<summary>ru</summary>
 
 Верно или неверно: Функции могут не иметь параметры.
 
@@ -37,7 +37,7 @@
 4. What is scope? (Variable lifetime, function name, code block, error)
 
 <details>
-<summary>🇷🇺 Вопрос 4 на русском</summary>
+<summary>ru</summary>
 
 Что такое область видимости? (Продолжительность переменной, имя функции, блок кода, ошибка)
 
@@ -46,7 +46,7 @@
 5. Lambda is for? (Named functions, anonymous, loops, conditionals)
 
 <details>
-<summary>🇷🇺 Вопрос 5 на русском</summary>
+<summary>ru</summary>
 
 Ламбда нужна для? (Названные функции, анонимные, циклы, условные операторы)
 
@@ -60,7 +60,7 @@
 5. anonymous
 
 <details>
-<summary>🇷🇺 Ответы (Русский)</summary>
+<summary>ru</summary>
 
 **Ответы:**
 1. def

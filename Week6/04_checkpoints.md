@@ -3,7 +3,7 @@
 1. Method to initialize object? (__init__, __new__, __create__, start)
 
 <details>
-<summary>🇷🇺 Метод для инициализации объекта? (__init__, __new__, __create__, start)</summary>
+<summary>ru</summary>
 
 Ответ: `__init__`. Это конструктор класса, который вызывается при создании объекта.
 
@@ -12,7 +12,7 @@
 2. Self refers to? (class, object, method, attribute)
 
 <details>
-<summary>🇷🇺 На что ссылается self? (class, object, method, attribute)</summary>
+<summary>ru</summary>
 
 Ответ: `object`. Параметр `self` ссылается на текущий объект, экземпляр класса.
 
@@ -21,7 +21,7 @@
 3. Inheritance keyword? (extends, inherits, class, super)
 
 <details>
-<summary>🇷🇺 Ключевое слово наследования? (extends, inherits, class, super)</summary>
+<summary>ru</summary>
 
 Ответ: `class`. Используется синтаксис `class Child(Parent):` для наследования.
 
@@ -30,7 +30,7 @@
 4. Private attribute? (_attr, attr_, __attr, attr__)
 
 <details>
-<summary>🇷🇺 Приватный атрибут? (_attr, attr_, __attr, attr__)</summary>
+<summary>ru</summary>
 
 Ответ: `__attr`. Двойное подчеркивание делает атрибут приватным.
 
@@ -39,7 +39,7 @@
 5. Create object? (new Class(), Class(), Class.__new__(), object())
 
 <details>
-<summary>🇷🇺 Создать объект? (new Class(), Class(), Class.__new__(), object())</summary>
+<summary>ru</summary>
 
 Ответ: `Class()`. В Python используется простой синтаксис вызова класса.
 
@@ -49,29 +49,29 @@
 1. __init__
 
 <details>
-<summary>🇷🇺 Ответы: 1. __init__</summary>
+<summary>ru</summary>
 </details>
 
 2. object
 
 <details>
-<summary>🇷🇺 2. object</summary>
+<summary>ru</summary>
 </details>
 
 3. class
 
 <details>
-<summary>🇷🇺 3. class</summary>
+<summary>ru</summary>
 </details>
 
 4. __attr
 
 <details>
-<summary>🇷🇺 4. __attr</summary>
+<summary>ru</summary>
 </details>
 
 5. Class()
 
 <details>
-<summary>🇷🇺 5. Class()</summary>
+<summary>ru</summary>
 </details>

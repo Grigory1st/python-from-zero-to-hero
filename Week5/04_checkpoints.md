@@ -1,7 +1,7 @@
 # Week 5: Checkpoints
 
 <details>
-<summary>🇷🇺 Русский перевод (введение)</summary>
+<summary>ru</summary>
 
 Контрольные точки
 
@@ -10,7 +10,7 @@
 1. Open file mode for write? ("r", "w", "a", "x")
 
 <details>
-<summary>🇷🇺 Вопрос 1 на русском</summary>
+<summary>ru</summary>
 
 Какой режим для записи? ("r", "w", "a", "x")
 
@@ -19,7 +19,7 @@
 2. Context manager for files? (with, open, close, read)
 
 <details>
-<summary>🇷🇺 Вопрос 2 на русском</summary>
+<summary>ru</summary>
 
 Менеджер контекста для файлов? (with, open, close, read)
 
@@ -28,7 +28,7 @@
 3. Import module? (import, include, require, load)
 
 <details>
-<summary>🇷🇺 Вопрос 3 на русском</summary>
+<summary>ru</summary>
 
 Как импортировать модуль? (import, include, require, load)
 
@@ -37,7 +37,7 @@
 4. CSV reader returns? (list, dict, string, file)
 
 <details>
-<summary>🇷🇺 Вопрос 4 на русском</summary>
+<summary>ru</summary>
 
 Что возвращает CSV ридер? (list, dict, string, file)
 
@@ -46,7 +46,7 @@
 5. Append mode? ("r", "w", "a", "x")
 
 <details>
-<summary>🇷🇺 Вопрос 5 на русском</summary>
+<summary>ru</summary>
 
 Какой режим добавления? ("r", "w", "a", "x")
 
@@ -60,7 +60,7 @@
 5. "a"
 
 <details>
-<summary>🇷🇺 Ответы (Русский)</summary>
+<summary>ru</summary>
 
 **Ответы:**
 1. "w"

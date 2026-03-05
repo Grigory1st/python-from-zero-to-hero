@@ -1,7 +1,7 @@
 # Week 6: Final Project - Library System
 
 <details>
-<summary>🇷🇺 Финальный проект: Система библиотеки</summary>
+<summary>ru</summary>
 
 Создайте программу для управления библиотекой:
 
@@ -10,7 +10,7 @@
 Create classes for Book and Library:
 
 <details>
-<summary>🇷🇺 Создайте классы Book и Library</summary>
+<summary>ru</summary>
 
 Класс Book должен содержать title, author и available
 Класс Library должен содержать методы для добавления, заимствования и возврата книг
@@ -20,19 +20,19 @@ Create classes for Book and Library:
 - Book: title, author, available
 
 <details>
-<summary>🇷🇺 Book: название, автор, доступность</summary>
+<summary>ru</summary>
 </details>
 
 - Library: add book, borrow, return
 
 <details>
-<summary>🇷🇺 Library: добавить книгу, взять, вернуть</summary>
+<summary>ru</summary>
 </details>
 
 - Menu to interact
 
 <details>
-<summary>🇷🇺 Меню для взаимодействия</summary>
+<summary>ru</summary>
 
 Реализуйте интерактивное меню для пользователя с опциями:
 - Добавить книгу

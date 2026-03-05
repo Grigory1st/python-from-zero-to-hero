@@ -3,7 +3,7 @@
 1. **Generator Function**: Create generator for fibonacci.
 
 <details>
-<summary>🇷🇺 Функция-генератор: создайте генератор для Фибоначчи</summary>
+<summary>ru</summary>
 
 Реализуйте генератор, который возвращает последовательность Фибоначчи при каждом вызове.
 
@@ -16,7 +16,7 @@
 2. **Decorator**: Time function execution.
 
 <details>
-<summary>🇷🇺 Декоратор: измерьте время выполнения функции</summary>
+<summary>ru</summary>
 
 Создайте декоратор, который замеряет и выводит длительность работы любой функции.
 
@@ -29,7 +29,7 @@
 3. **Map/Filter**: Use on list.
 
 <details>
-<summary>🇷🇺 Map/Filter: примените к списку</summary>
+<summary>ru</summary>
 
 Используйте `map` и `filter` для обработки списка чисел (например, возведите в квадрат и отберите четные).
 
@@ -42,7 +42,7 @@
 4. **API Call**: Fetch data from public API.
 
 <details>
-<summary>🇷🇺 Вызов API: получите данные из публичного API</summary>
+<summary>ru</summary>
 
 Напишите код, который делает HTTP-запрос к открытому API и выводит ответ.
 
@@ -55,7 +55,7 @@
 5. **SQLite Query**: Create table, insert, select.
 
 <details>
-<summary>🇷🇺 Запрос SQLite: создать таблицу, вставить, выбрать</summary>
+<summary>ru</summary>
 
 Используйте sqlite3 для создания таблицы, добавления данных и выборки их.
 

@@ -3,7 +3,7 @@
 Build a tip calculator for a restaurant. The script should:
 
 <details>
-<summary>🇷🇺 Русский перевод</summary>
+<summary>ru</summary>
 
 Создайте калькулятор чаевых для ресторана. Скрипт должен:
 
@@ -15,7 +15,7 @@ Build a tip calculator for a restaurant. The script should:
 - Print a receipt-like output.
 
 <details>
-<summary>🇷🇺 Русский список требований</summary>
+<summary>ru</summary>
 
 - Попросить сумму счета.
 - Попросить процент чаевых.
@@ -33,7 +33,7 @@ Total: $57.50
 ```
 
 <details>
-<summary>🇷🇺 Русский перевод (Пример выходных данных)</summary>
+<summary>ru</summary>
 
 **Пример выходных данных:**
 ```
@@ -51,7 +51,7 @@ Total: $57.50
 - Format output with f-strings or string concatenation.
 
 <details>
-<summary>🇷🇺 Русский перевод (Подсказки)</summary>
+<summary>ru</summary>
 
 **Подсказки:**
 - Используйте `float()` для преобразования входных данных в числа.

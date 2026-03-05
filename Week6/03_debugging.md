@@ -9,7 +9,7 @@ print(p.height)  # AttributeError
 ```
 
 <details>
-<summary>🇷🇺 Ошибка атрибута: доступ к несуществующему атрибуту</summary>
+<summary>ru</summary>
 
 Эта ошибка возникает, когда вы пытаетесь получить доступ к атрибуту, который не был определен в объекте.
 
@@ -26,7 +26,7 @@ print(p.height)  # AttributeError: 'Person' object has no attribute 'height'
 Wrong arguments.
 
 <details>
-<summary>🇷🇺 Ошибка типа в __init__: неверные аргументы</summary>
+<summary>ru</summary>
 
 Эта ошибка возникает, когда при создании объекта переданы неправильные аргументы.
 

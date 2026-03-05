@@ -3,7 +3,7 @@
 Practice these exercises to reinforce the concepts. Write the code in a Python file and run it to see the output.
 
 <details>
-<summary>🇷🇺 Русский перевод</summary>
+<summary>ru</summary>
 
 Попрактикуйтесь в этих упражнениях, чтобы закрепить концепции. Напишите код в файл Python и запустите его, чтобы увидеть результат.
 
@@ -12,7 +12,7 @@ Practice these exercises to reinforce the concepts. Write the code in a Python f
 1. **Variable Assignment**: Create variables for your name, age, and favorite color. Print them in a sentence.
 
 <details>
-<summary>🇷🇺 Упражнение 1 на русском</summary>
+<summary>ru</summary>
 
 **Присваивание переменных**: Создайте переменные для вашего имени, возраста и любимого цвета. Распечатайте их в предложении.
 
@@ -25,7 +25,7 @@ Practice these exercises to reinforce the concepts. Write the code in a Python f
 2. **Data Type Conversion**: Take a number as input, convert it to float, and print the result.
 
 <details>
-<summary>🇷🇺 Упражнение 2 на русском</summary>
+<summary>ru</summary>
 
 **Преобразование типов данных**: Возьмите число в качестве входных данных, преобразуйте его в float и распечатайте результат.
 
@@ -38,7 +38,7 @@ Practice these exercises to reinforce the concepts. Write the code in a Python f
 3. **Basic Calculator**: Write a script that adds two numbers entered by the user.
 
 <details>
-<summary>🇷🇺 Упражнение 3 на русском</summary>
+<summary>ru</summary>
 
 **Простой калькулятор**: Напишите скрипт, который складывает два числа, введенные пользователем.
 
@@ -51,7 +51,7 @@ Practice these exercises to reinforce the concepts. Write the code in a Python f
 4. **String Manipulation**: Ask for the user's first and last name, then print their full name in uppercase.
 
 <details>
-<summary>🇷🇺 Упражнение 4 на русском</summary>
+<summary>ru</summary>
 
 **Работа со строками**: Попросите имя и фамилию пользователя, затем распечатайте их полное имя в верхнем регистре.
 
@@ -64,7 +64,7 @@ Practice these exercises to reinforce the concepts. Write the code in a Python f
 5. **Boolean Logic**: Create a variable for temperature and print whether it's above 20 degrees.
 
 <details>
-<summary>🇷🇺 Упражнение 5 на русском</summary>
+<summary>ru</summary>
 
 **Булева логика**: Создайте переменную для температуры и распечатайте, выше ли она 20 градусов.
 

@@ -1,7 +1,7 @@
 # Week 4: Checkpoints
 
 <details>
-<summary>🇷🇺 Русский перевод (введение)</summary>
+<summary>ru</summary>
 
 Контрольные точки
 
@@ -10,7 +10,7 @@
 1. Mutable sequence? (list, tuple, dict, set)
 
 <details>
-<summary>🇷🇺 Вопрос 1 на русском</summary>
+<summary>ru</summary>
 
 Изменяемая последовательность? (list, tuple, dict, set)
 
@@ -19,7 +19,7 @@
 2. Immutable sequence? (list, tuple, dict, set)
 
 <details>
-<summary>🇷🇺 Вопрос 2 на русском</summary>
+<summary>ru</summary>
 
 Неизменяемая последовательность? (list, tuple, dict, set)
 
@@ -28,7 +28,7 @@
 3. Key-value store? (list, tuple, dict, set)
 
 <details>
-<summary>🇷🇺 Вопрос 3 на русском</summary>
+<summary>ru</summary>
 
 Хранилище ключ-значение? (list, tuple, dict, set)
 
@@ -37,7 +37,7 @@
 4. Unique elements? (list, tuple, dict, set)
 
 <details>
-<summary>🇷🇺 Вопрос 4 на русском</summary>
+<summary>ru</summary>
 
 Уникальные элементы? (list, tuple, dict, set)
 
@@ -46,7 +46,7 @@
 5. What is [x for x in range(3)]? ([0,1,2], [1,2,3], error, [])
 
 <details>
-<summary>🇷🇺 Вопрос 5 на русском</summary>
+<summary>ru</summary>
 
 Что это [x for x in range(3)]? ([0,1,2], [1,2,3], error, [])
 
@@ -60,7 +60,7 @@
 5. [0,1,2]
 
 <details>
-<summary>🇷🇺 Ответы (Русский)</summary>
+<summary>ru</summary>
 
 **Ответы:**
 1. list

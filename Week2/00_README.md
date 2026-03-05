@@ -1,14 +1,14 @@
 # Week 2: Control Flow - Conditionals and Loops
 
 <details>
-<summary><b>🇷🇺 Неделя 2: Управление потоком - Условия и циклы</b></summary>
+<summary>ru</summary>
 </details>
 
 ## Overview
 This week dives into control flow, allowing programs to make decisions and repeat actions.
 
 <details>
-<summary>🇷🇺 Обзор</summary>
+<summary>ru</summary>
 На этой неделе мы погружаемся в управление потоком, позволяя программам принимать решения и повторять действия.
 </details>
 
@@ -20,7 +20,7 @@ This week dives into control flow, allowing programs to make decisions and repea
 - Loop Control (break, continue)
 
 <details>
-<summary>🇷🇺 Теория</summary>
+<summary>ru</summary>
 
 - Условные операторы (if-else)
 - Операторы сравнения
@@ -38,7 +38,7 @@ This week dives into control flow, allowing programs to make decisions and repea
 5. Menu System
 
 <details>
-<summary>🇷🇺 Практика</summary>
+<summary>ru</summary>
 
 1. Классификатор возраста
 2. Игра в отгадывание числа
@@ -55,7 +55,7 @@ This week dives into control flow, allowing programs to make decisions and repea
 - Logical Errors
 
 <details>
-<summary>🇷🇺 Отладка</summary>
+<summary>ru</summary>
 
 - Бесконечные циклы
 - Ошибки отступа в условиях
@@ -68,7 +68,7 @@ This week dives into control flow, allowing programs to make decisions and repea
 5 multiple-choice questions on control flow.
 
 <details>
-<summary>🇷🇺 Контрольные точки</summary>
+<summary>ru</summary>
 5 вопросов с выбором ответа по управлению потоком.
 </details>
 
@@ -80,7 +80,7 @@ This week dives into control flow, allowing programs to make decisions and repea
 5. Number Filter
 
 <details>
-<summary>🇷🇺 Микропроекты</summary>
+<summary>ru</summary>
 
 1. Проверка готовности
 2. Простой симулятор банкомата
@@ -94,6 +94,6 @@ This week dives into control flow, allowing programs to make decisions and repea
 Simple To-Do List - manage tasks with menu-driven interface.
 
 <details>
-<summary>🇷🇺 Финальный проект</summary>
+<summary>ru</summary>
 Простой список задач - управляйте задачами через интерфейс меню.
 </details>

@@ -1,7 +1,7 @@
 # Week 5: Debugging Common Issues
 
 <details>
-<summary>🇷🇺 Русский перевод (введение)</summary>
+<summary>ru</summary>
 
 Отладка распространенных проблем
 
@@ -15,7 +15,7 @@ open("nonexistent.txt")  # Error
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 open("nonexistent.txt")  # Ошибка - файл не найден
@@ -29,7 +29,7 @@ open("nonexistent.txt")  # Ошибка - файл не найден
 No write permission.
 
 <details>
-<summary>🇷🇺 Русский перевод</summary>
+<summary>ru</summary>
 
 Нет разрешения на запись.
 
@@ -39,7 +39,7 @@ No write permission.
 Module not found.
 
 <details>
-<summary>🇷🇺 Русский перевод</summary>
+<summary>ru</summary>
 
 Модуль не найден.
 
@@ -50,7 +50,7 @@ import nonexistent  # ImportError
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 import nonexistent  # Ошибка - модуль не тричуется

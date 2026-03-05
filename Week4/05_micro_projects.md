@@ -1,7 +1,7 @@
 # Week 4: Micro Projects
 
 <details>
-<summary>🇷🇺 Русский перевод (введение)</summary>
+<summary>ru</summary>
 
 Микропроекты
 
@@ -10,7 +10,7 @@
 1. **Inventory Manager**: Use dict for items and quantities.
 
 <details>
-<summary>🇷🇺 Проект 1 на русском</summary>
+<summary>ru</summary>
 
 **Менеджер инвентаря**: Используйте словарь для товаров и количеств.
 
@@ -19,7 +19,7 @@
 2. **Student Grades**: List of dicts for students and scores.
 
 <details>
-<summary>🇷🇺 Проект 2 на русском</summary>
+<summary>ru</summary>
 
 **Оценки студентов**: Список словарей для студентов и баллов.
 
@@ -28,7 +28,7 @@
 3. **Unique Words**: Set to count unique words in text.
 
 <details>
-<summary>🇷🇺 Проект 3 на русском</summary>
+<summary>ru</summary>
 
 **Уникальные слова**: Множество для посчета уникальных слов в тексте.
 
@@ -37,7 +37,7 @@
 4. **Shopping List**: List with add/remove.
 
 <details>
-<summary>🇷🇺 Проект 4 на русском</summary>
+<summary>ru</summary>
 
 **Список покупок**: Список с добавлением/удалением.
 
@@ -46,7 +46,7 @@
 5. **Contact Book**: Dict of names to phones.
 
 <details>
-<summary>🇷🇺 Проект 5 на русском</summary>
+<summary>ru</summary>
 
 **Книга контактов**: Словарь имен по телефонам.
 

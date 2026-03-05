@@ -5,7 +5,7 @@
 Work with files and organize code into modules.
 
 <details>
-<summary>🇷🇺 Русский перевод (введение)</summary>
+<summary>ru</summary>
 
 Работайте с файлами и организуйте код в модули.
 
@@ -23,7 +23,7 @@ with open("file.txt", "r") as f:
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 # Запись
@@ -44,7 +44,7 @@ print(math.sqrt(16))
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 import math  # импортируем модуль
@@ -63,7 +63,7 @@ with open("data.csv", "r") as f:
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 import csv  # модуль для CSV

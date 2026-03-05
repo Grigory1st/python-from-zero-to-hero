@@ -1,14 +1,14 @@
 # Week 1: Introduction to Python - Basics
 
 <details>
-<summary><b>🇷🇺 Неделя 1: Введение в Python - Основы</b></summary>
+<summary>ru</summary>
 </details>
 
 ## Overview
 This week covers the fundamentals of Python programming, focusing on variables, data types, and basic operations.
 
 <details>
-<summary>🇷🇺 Обзор</summary>
+<summary>ru</summary>
 На этой неделе мы рассмотрим основы программирования на Python, сосредоточившись на переменных, типах данных и базовых операциях.
 </details>
 
@@ -21,7 +21,7 @@ This week covers the fundamentals of Python programming, focusing on variables, 
 - Comments
 
 <details>
-<summary>🇷🇺 Теория</summary>
+<summary>ru</summary>
 
 - Что такое Python?
 - Переменные
@@ -40,7 +40,7 @@ This week covers the fundamentals of Python programming, focusing on variables, 
 5. Boolean Logic
 
 <details>
-<summary>🇷🇺 Практика</summary>
+<summary>ru</summary>
 
 1. Присваивание переменных
 2. Преобразование типов данных
@@ -57,7 +57,7 @@ This week covers the fundamentals of Python programming, focusing on variables, 
 - IndentationError
 
 <details>
-<summary>🇷🇺 Отладка</summary>
+<summary>ru</summary>
 
 - NameError (Ошибка имени)
 - TypeError (Ошибка типа)
@@ -70,7 +70,7 @@ This week covers the fundamentals of Python programming, focusing on variables, 
 5 multiple-choice questions on basics.
 
 <details>
-<summary>🇷🇺 Контрольные точки</summary>
+<summary>ru</summary>
 5 вопросов с выбором ответа на основные концепции.
 </details>
 
@@ -82,7 +82,7 @@ This week covers the fundamentals of Python programming, focusing on variables, 
 5. Basic Profile Card
 
 <details>
-<summary>🇷🇺 Микропроекты</summary>
+<summary>ru</summary>
 
 1. Скрипт личного представления
 2. Простой трекер расходов
@@ -96,6 +96,6 @@ This week covers the fundamentals of Python programming, focusing on variables, 
 Tip Calculator - calculate tip and total from bill amount and percentage.
 
 <details>
-<summary>🇷🇺 Финальный проект</summary>
+<summary>ru</summary>
 Калькулятор чаевых - вычислите чаевые и сумму на основе суммы счета и процента.
 </details>

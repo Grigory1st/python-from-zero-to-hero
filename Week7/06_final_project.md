@@ -1,7 +1,7 @@
 # Week 7: Final Project - Robust Calculator
 
 <details>
-<summary>🇷🇺 Финальный проект: Надежный калькулятор</summary>
+<summary>ru</summary>
 
 Модифицировать предыдущие калькуляторы с добрым обработкой исключений.
 
@@ -10,7 +10,7 @@
 Enhance calculator with exception handling:
 
 <details>
-<summary>🇷🇺 Улучшите калькулятор с обработкой исключений</summary>
+<summary>ru</summary>
 
 Обрабатывать все возможные ошибки со структурированным error reporting.
 
@@ -19,25 +19,25 @@ Enhance calculator with exception handling:
 - Handle invalid operations
 
 <details>
-<summary>🇷🇺 Обработать невалидные операции</summary>
+<summary>ru</summary>
 </details>
 
 - Division by zero
 
 <details>
-<summary>🇷🇺 Деление на ноль</summary>
+<summary>ru</summary>
 </details>
 
 - Non-numeric input
 
 <details>
-<summary>🇷🇺 При нечисловых вводах</summary>
+<summary>ru</summary>
 </details>
 
 - Use try-except in all operations
 
 <details>
-<summary>🇷🇺 Уткористуйте try-except во всех операциях</summary>
+<summary>ru</summary>
 
 Гарантировать, что все арифметические операции страхуются одновременно.
 

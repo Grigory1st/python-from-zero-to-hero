@@ -1,7 +1,7 @@
 # Week 4: Final Project - Contact Manager
 
 <details>
-<summary>🇷🇺 Русский перевод (введение)</summary>
+<summary>ru</summary>
 
 Менеджер контактов
 
@@ -10,7 +10,7 @@
 Create a contact manager using dict:
 
 <details>
-<summary>🇷🇺 Русский перевод</summary>
+<summary>ru</summary>
 
 Создайте менеджер контактов, используя словарь:
 
@@ -23,7 +23,7 @@ Create a contact manager using dict:
 - Menu-driven loop
 
 <details>
-<summary>🇷🇺 Русские требуемия</summary>
+<summary>ru</summary>
 
 - Добавить контакт (имя, телефон)
 - Поиск по имени

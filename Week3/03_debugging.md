@@ -1,7 +1,7 @@
 # Week 3: Debugging Common Issues
 
 <details>
-<summary>🇷🇺 Русский перевод (введение)</summary>
+<summary>ru</summary>
 
 Неделя 3: Отладка распространенных проблем
 
@@ -18,7 +18,7 @@ def func():
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 x = 10
@@ -35,7 +35,7 @@ def func():
 Wrong argument types.
 
 <details>
-<summary>🇷🇺 Русский перевод</summary>
+<summary>ru</summary>
 
 Неправильные типы аргументов.
 
@@ -45,7 +45,7 @@ Wrong argument types.
 Infinite recursion.
 
 <details>
-<summary>🇷🇺 Русский перевод</summary>
+<summary>ru</summary>
 
 Бесконечная рекурсия.
 
@@ -63,7 +63,7 @@ def factorial(n):
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 def recurse():

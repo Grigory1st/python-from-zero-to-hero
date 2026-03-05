@@ -1,14 +1,14 @@
 # Week 4: Data Structures
 
 <details>
-<summary><b>🇷🇺 Неделя 4: Структуры данных</b></summary>
+<summary>ru</summary>
 </details>
 
 ## Overview
 This week explores data structures for storing and organizing data efficiently.
 
 <details>
-<summary>🇷🇺 Обзор</summary>
+<summary>ru</summary>
 На этой неделе мы исследуем структуры данных для эффективного хранения и организации данных.
 </details>
 
@@ -20,7 +20,7 @@ This week explores data structures for storing and organizing data efficiently.
 - List Comprehensions
 
 <details>
-<summary>🇷🇺 Теория</summary>
+<summary>ru</summary>
 
 - Списки
 - Кортежи
@@ -38,7 +38,7 @@ This week explores data structures for storing and organizing data efficiently.
 5. Comprehension
 
 <details>
-<summary>🇷🇺 Практика</summary>
+<summary>ru</summary>
 
 1. Операции со списками
 2. Поиск в словаре
@@ -54,7 +54,7 @@ This week explores data structures for storing and organizing data efficiently.
 - TypeError with Sets
 
 <details>
-<summary>🇷🇺 Отладка</summary>
+<summary>ru</summary>
 
 - IndexError (Ошибка индекса)
 - KeyError (Ошибка ключа)
@@ -66,7 +66,7 @@ This week explores data structures for storing and organizing data efficiently.
 5 multiple-choice questions on data structures.
 
 <details>
-<summary>🇷🇺 Контрольные точки</summary>
+<summary>ru</summary>
 5 вопросов с выбором ответа о структурах данных.
 </details>
 
@@ -78,7 +78,7 @@ This week explores data structures for storing and organizing data efficiently.
 5. Contact Book
 
 <details>
-<summary>🇷🇺 Микропроекты</summary>
+<summary>ru</summary>
 
 1. Менеджер инвентаря
 2. Оценки студентов
@@ -92,6 +92,6 @@ This week explores data structures for storing and organizing data efficiently.
 Contact Manager - manage contacts using dictionary.
 
 <details>
-<summary>🇷🇺 Финальный проект</summary>
+<summary>ru</summary>
 Менеджер контактов - управляйте контактами с использованием словаря.
 </details>

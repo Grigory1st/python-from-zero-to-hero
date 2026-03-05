@@ -3,7 +3,7 @@
 Debugging is a crucial skill. Here are common errors you'll encounter and how to fix them.
 
 <details>
-<summary>🇷🇺 Русский перевод (введение)</summary>
+<summary>ru</summary>
 
 Отладка — это важный навык. Вот распространенные ошибки, которые вы встретите, и как их исправить.
 
@@ -14,7 +14,7 @@ Debugging is a crucial skill. Here are common errors you'll encounter and how to
 Occurs when you try to use a variable that hasn't been defined.
 
 <details>
-<summary>🇷🇺 Русский перевод (NameError)</summary>
+<summary>ru</summary>
 
 Возникает, когда вы пытаетесь использовать переменную, которая не была определена.
 
@@ -30,7 +30,7 @@ print(name)
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 # Пример ошибки
@@ -48,7 +48,7 @@ print(name)
 Happens when you try to perform an operation on incompatible types.
 
 <details>
-<summary>🇷🇺 Русский перевод (TypeError)</summary>
+<summary>ru</summary>
 
 Происходит, когда вы пытаетесь выполнить операцию над несовместимыми типами.
 
@@ -64,7 +64,7 @@ print("Age: " + str(age))
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 # Пример ошибки
@@ -82,7 +82,7 @@ print("Age: " + str(age))
 Invalid Python syntax.
 
 <details>
-<summary>🇷🇺 Русский перевод (SyntaxError)</summary>
+<summary>ru</summary>
 
 Неправильный синтаксис Python.
 
@@ -97,7 +97,7 @@ print("Hello")
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 # Пример ошибки
@@ -114,7 +114,7 @@ print("Hello")
 Python uses indentation to define code blocks.
 
 <details>
-<summary>🇷🇺 Русский перевод (IndentationError)</summary>
+<summary>ru</summary>
 
 Python использует отступ для определения блоков кода.
 
@@ -131,7 +131,7 @@ if True:
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 # Пример ошибки
@@ -151,7 +151,7 @@ if True:
 - Check for typos in variable names.
 
 <details>
-<summary>🇷🇺 Русский перевод (советы)</summary>
+<summary>ru</summary>
 
 - Внимательно читайте сообщения об ошибках.
 - Используйте `print()` для отладки значений переменных.

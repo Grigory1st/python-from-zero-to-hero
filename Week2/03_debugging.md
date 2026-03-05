@@ -1,7 +1,7 @@
 # Week 2: Debugging Common Issues
 
 <details>
-<summary>🇷🇺 Русский перевод (введение)</summary>
+<summary>ru</summary>
 
 Неделя 2: Отладка распространенных проблем
 
@@ -11,7 +11,7 @@
 While loops that never end.
 
 <details>
-<summary>🇷🇺 Русский перевод (Infinite Loops)</summary>
+<summary>ru</summary>
 
 Циклы While, которые никогда не заканчиваются.
 
@@ -30,7 +30,7 @@ while count < 10:
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 # Ошибка
@@ -57,7 +57,7 @@ if True:
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 if True:
@@ -77,7 +77,7 @@ for i in range(5):
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 for i in range(5):
@@ -90,7 +90,7 @@ for i in range(5):
 Conditions that don't work as expected.
 
 <details>
-<summary>🇷🇺 Русский перевод (Logical Errors)</summary>
+<summary>ru</summary>
 
 Условия, которые не работают как ожидалось.
 
@@ -103,7 +103,7 @@ if age > 18 or age < 65:  # Always true for age > 18
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 age = 20

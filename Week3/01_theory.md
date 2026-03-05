@@ -5,7 +5,7 @@
 Functions are reusable blocks of code. They help organize code and avoid repetition, crucial for larger programs.
 
 <details>
-<summary>🇷🇺 Русский перевод (введение)</summary>
+<summary>ru</summary>
 
 Функции - это переиспользуемые блоки кода. Они помогают организовать код и исключить повторения, что критически важно для больших программ.
 
@@ -20,7 +20,7 @@ print(greet("Alice"))
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 def greet(name):
@@ -36,7 +36,7 @@ print(greet("Alice"))  # Отправить привет для рим
 - Arguments: Values passed to function.
 
 <details>
-<summary>🇷🇺 Русский перевод</summary>
+<summary>ru</summary>
 
 - Параметры: Переменные в определении функции.
 - Аргументы: Значения, переданные в функцию.
@@ -51,7 +51,7 @@ result = add(5, 3)  # 8
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 def add(a, b):
@@ -66,7 +66,7 @@ result = add(5, 3)  # 8 - Складываются 5 и 3
 Functions can return values or None.
 
 <details>
-<summary>🇷🇺 Русский перевод</summary>
+<summary>ru</summary>
 
 Функции могут возвращать значения или None.
 
@@ -76,7 +76,7 @@ Functions can return values or None.
 Variables inside functions are local.
 
 <details>
-<summary>🇷🇺 Русский перевод</summary>
+<summary>ru</summary>
 
 Переменные внутри функций являются локальными.
 
@@ -92,7 +92,7 @@ print(x)  # 10
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 x = 10  # Глобальная переменная
@@ -109,7 +109,7 @@ print(x)  # 10
 Like `len()`, `max()`, `min()`.
 
 <details>
-<summary>🇷🇺 Русский перевод</summary>
+<summary>ru</summary>
 
 Например `len()`, `max()`, `min()`.
 
@@ -119,7 +119,7 @@ Like `len()`, `max()`, `min()`.
 Anonymous functions.
 
 <details>
-<summary>🇷🇺 Русский перевод</summary>
+<summary>ru</summary>
 
 Анонимные функции.
 
@@ -131,7 +131,7 @@ print(square(4))  # 16
 ```
 
 <details>
-<summary>🇷🇺 Русский комментарий</summary>
+<summary>ru</summary>
 
 ```python
 square = lambda x: x**2
