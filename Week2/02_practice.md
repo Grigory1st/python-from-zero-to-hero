@@ -17,7 +17,27 @@
 </details>
 
 ```python
-# Your code here
+while True:
+    age = input("Enter your age: ")
+
+    try:
+        age = int(age)
+
+        if age < 0 or age > 120:
+            print("Age is not realistic")
+            continue
+
+        if age <= 12:
+            print("You are child")
+        elif age <= 18:
+            print("You are teenager")
+        else:
+            print("You are already adult")
+
+        break
+
+    except ValueError:
+        print("Enter a valid age please")
 ```
 
 2. **Number Guessing Game**: Generate a random number (use `import random; random.randint(1,10)`) and let user guess until correct.
@@ -84,7 +104,8 @@ while True:   # outer loop: new game
 </details>
 
 ```python
-# Your code here
+for i in range (1,11)
+    print(i,"even" if i % 2 == 0 else "odd")    
 ```
 
 4. **Password Validator**: Check if password is at least 8 characters and contains a digit.
@@ -97,7 +118,13 @@ while True:   # outer loop: new game
 </details>
 
 ```python
-# Your code here
+# Password Validator: Check if password is at least 8 characters and contains a digit.
+password = input("Enter the password (at least 8 characters and at least one digit): ")
+
+if len(password) >= 8 and any(char.isdigit() for char in password):
+    print("Good password")
+else:
+    print("Password must be at least 8 characters long and contain at least one digit")
 ```
 
 5. **Menu System**: Use a loop to display a menu and respond to user choices.
@@ -110,5 +137,28 @@ while True:   # outer loop: new game
 </details>
 
 ```python
-# Your code here
+while True:
+    print("\n===== MENU =====")
+    print("1. Say Hello")
+    print("2. Add two numbers")
+    print("3. Exit")
+    print("==================")
+    
+    choice = input("Enter your choice (1-3): ").strip()  # убираем лишние пробелы
+
+    if choice == "1":
+        print("\nHello!\n")
+    elif choice == "2":
+        # Проверяем, что пользователь ввёл числа
+        try:
+            a = int(input("Enter first number: "))
+            b = int(input("Enter second number: "))
+            print("Sum:", a + b, "\n")
+        except ValueError:
+            print("Please enter valid numbers.\n")
+    elif choice == "3":
+        print("Exiting... Goodbye!")
+        break
+    else:
+        print("Invalid choice. Please enter 1, 2, or 3.\n")
 ```
